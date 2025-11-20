@@ -6,8 +6,8 @@ A React app showcasing a restaurant menu with reusable components and list rende
 - MenuItem: Reusable component to display individual menu items with conditional vegetarian badge
 
 ## Links
-- **GitHub Repository:** [your-github-link]
-- **Live Website:** [your-deployment-link]
+- **GitHub Repository:** https://github.com/adnankunjoo/Restaurant-Menu.git
+- **Live Website:** https://vercel.com/zeros-projects-9dc2928a/restaurant-menu/FZgpZVhhq5Gk2s6Fe8bChirLoxDp
 
 ## Run Locally
 1. Clone the repository
